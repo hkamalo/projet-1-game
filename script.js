@@ -1,7 +1,8 @@
+import whatCpuSelected from './cpu';
 // 1.Éléments à utiliser//
 
 // 1.1.Joueurs//
-import whatCpuSelected from './cpu';
+
 
 const cpuImage = document.querySelector('.cpuImageChoice');
 const newPlayer = document.querySelector('#playerName');
